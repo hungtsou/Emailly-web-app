@@ -1,0 +1,26 @@
+{
+  "name": "emailly-web-app",
+  "version": "1.0.0",
+  "description": "react with node web app",
+  "main": "index.js",
+  "engines": {
+    "node": "8.9.1",
+    "npm": "5.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungtsou/Emailly-web-app.git"
+  },
+  "author": "Hung Tsou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungtsou/Emailly-web-app/issues"
+  },
+  "homepage": "https://github.com/hungtsou/Emailly-web-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
